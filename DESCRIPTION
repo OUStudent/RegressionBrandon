@@ -1,0 +1,11 @@
+Package: RegressionBrandon
+Type: Package
+Title: Regressional Analysis
+Version: 0.1.0
+Author: Brandon Morgan
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Includes multiple functions and shiny applications derived from Math 4793: Applied Regressional Analysis
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
